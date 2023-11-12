@@ -54,6 +54,8 @@ export default {
     if(localStorage.getItem("score")){
       this.score = JSON.parse(localStorage.getItem("score"));
     }
+
+    console.log("git");
   },
 
   computed: {
