@@ -4,7 +4,7 @@
     <strong id="pScore" class="score">{{score.P}}</strong>
     X
     <strong id="pScore" class="score">{{score.C}}</strong>
-    Computer
+    Computers
   </div>
   <hr>
   <div >
